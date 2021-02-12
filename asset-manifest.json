@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Wether_App/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Wether_App/static/js/main.ce288e75.chunk.js",
+    "main.js.map": "/Wether_App/static/js/main.ce288e75.chunk.js.map",
+    "runtime-main.js": "/Wether_App/static/js/runtime-main.5d4bfb61.js",
+    "runtime-main.js.map": "/Wether_App/static/js/runtime-main.5d4bfb61.js.map",
+    "static/css/2.150d169a.chunk.css": "/Wether_App/static/css/2.150d169a.chunk.css",
+    "static/js/2.af926de9.chunk.js": "/Wether_App/static/js/2.af926de9.chunk.js",
+    "static/js/2.af926de9.chunk.js.map": "/Wether_App/static/js/2.af926de9.chunk.js.map",
+    "static/js/3.e2b098ad.chunk.js": "/Wether_App/static/js/3.e2b098ad.chunk.js",
+    "static/js/3.e2b098ad.chunk.js.map": "/Wether_App/static/js/3.e2b098ad.chunk.js.map",
+    "index.html": "/Wether_App/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/Wether_App/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Wether_App/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.af926de9.chunk.js.LICENSE.txt": "/Wether_App/static/js/2.af926de9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Wether_App/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d4bfb61.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.af926de9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ce288e75.chunk.js"
+  ]
+}
